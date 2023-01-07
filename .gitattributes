@@ -1,7 +1,7 @@
 # Set line endings
 * text=auto eol=lf
 
-# Only include the assets folder when downloading from the Asset Library.
+# Only include the addons folder when downloading from the Asset Library.
 /**        export-ignore
-/assets    !export-ignore
-/assets/** !export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
