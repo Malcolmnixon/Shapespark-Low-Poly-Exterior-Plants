@@ -1,5 +1,5 @@
 # Shapespark Low-Poly Exterior Plants Kit
-This project contains the Shapespark low-poly exterior plants kit available 
+This folder contains the Shapespark low-poly exterior plants kit available 
 from https://github.com/shapespark/shapespark-assets under the CC0
 license.
 
