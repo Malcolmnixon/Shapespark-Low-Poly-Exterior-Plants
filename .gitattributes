@@ -1,16 +1,7 @@
 # Set line endings
-*.gd eol=lf
-*.tscn eol=lf
-*.cfg eol=lf
-*.godot eol=lf
-*.tres eol=lf
-*.import eol=lf
+* text=auto eol=lf
 
-# Configure export ignores
-/.gitattributes export-ignore
-/.gitignore export-ignore
-/default_env.tres export-ignore
-/icon.png export-ignore
-/icon.png.import export-ignore
-/icon.png.import export-ignore
-/project.godot export-ignore
+# Only include the assets folder when downloading from the Asset Library.
+/**        export-ignore
+/assets    !export-ignore
+/assets/** !export-ignore
