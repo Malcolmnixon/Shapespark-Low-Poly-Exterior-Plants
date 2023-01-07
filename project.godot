@@ -10,7 +10,7 @@ config_version=4
 
 [application]
 
-config/name="LowPolyExteriorPlants"
+config/name="Shapespark-Low-Poly-Exterior-Plants"
 run/main_scene="res://addons/shapespark-low-poly-exterior-plants/demo/demo_scene.tscn"
 config/icon="res://icon.png"
 
